@@ -1,0 +1,1641 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": "https://github.com/vercel/next.js",
+      "dependencies": [
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/FullHuman/purgecss"
+        },
+        {
+          "source": "https://github.com/mdx-js/mdx"
+        },
+        {
+          "source": "https://github.com/gregberge/svgr"
+        },
+        {
+          "source": "https://github.com/swc-project/cli"
+        },
+        {
+          "source": "https://github.com/swc-project/swc"
+        },
+        {
+          "source": "https://github.com/testing-library/react-testing-library"
+        },
+        {
+          "source": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+        },
+        {
+          "source": "https://github.com/typed-contrib/node-http-proxy"
+        },
+        {
+          "source": "https://github.com/turkdevops/minimal-react-typings"
+        },
+        {
+          "source": "https://github.com/danielandrukonis/angular-chartjs"
+        },
+        {
+          "source": "https://github.com/typescript-eslint/typescript-eslint"
+        },
+        {
+          "source": "https://github.com/vercel/fetch"
+        },
+        {
+          "source": "https://github.com/xtuc/webassemblyjs"
+        },
+        {
+          "source": "https://github.com/vercel/next-plugins"
+        },
+        {
+          "source": "https://github.com/mysticatea/abort-controller"
+        },
+        {
+          "source": "https://github.com/get-alex/alex"
+        },
+        {
+          "source": "https://github.com/ampproject/amphtml"
+        },
+        {
+          "source": "https://github.com/vercel/async-sema"
+        },
+        {
+          "source": "https://github.com/browserslist/browserslist"
+        },
+        {
+          "source": "https://github.com/chalk/chalk"
+        },
+        {
+          "source": "https://github.com/cheeriojs/cheerio"
+        },
+        {
+          "source": "https://github.com/jshttp/cookie"
+        },
+        {
+          "source": "https://github.com/expressjs/cors"
+        },
+        {
+          "source": "https://github.com/nickmerwin/node-coveralls"
+        },
+        {
+          "source": "https://github.com/GoogleChromeLabs/critters"
+        },
+        {
+          "source": "https://github.com/kentcdodds/cross-env"
+        },
+        {
+          "source": "https://github.com/moxystudio/node-cross-spawn"
+        },
+        {
+          "source": "https://github.com/DataDog/dd-trace-js"
+        },
+        {
+          "source": "https://github.com/medikoo/es5-ext"
+        },
+        {
+          "source": "https://github.com/sindresorhus/escape-string-regexp"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin"
+        },
+        {
+          "source": "https://github.com/import-js/eslint-plugin-import"
+        },
+        {
+          "source": "https://github.com/jest-community/eslint-plugin-jest"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/eslint-plugin-react"
+        },
+        {
+          "source": "https://github.com/facebook/react"
+        },
+        {
+          "source": "https://github.com/dominictarr/event-stream"
+        },
+        {
+          "source": "https://github.com/sindresorhus/execa"
+        },
+        {
+          "source": "https://github.com/expressjs/express"
+        },
+        {
+          "source": "https://github.com/yoyodream2017/vuecli-mockserver-faker"
+        },
+        {
+          "source": "https://github.com/fauna/faunadb-js"
+        },
+        {
+          "source": "https://github.com/firebase/firebase-js-sdk"
+        },
+        {
+          "source": "https://github.com/hughsk/flat"
+        },
+        {
+          "source": "https://github.com/jprichardson/node-fs-extra"
+        },
+        {
+          "source": "https://github.com/sindresorhus/get-port"
+        },
+        {
+          "source": "https://github.com/isaacs/node-glob"
+        },
+        {
+          "source": "https://github.com/sindresorhus/gzip-size"
+        },
+        {
+          "source": "https://github.com/zrrrzzt/html-validator"
+        },
+        {
+          "source": "https://github.com/typicode/husky"
+        },
+        {
+          "source": "https://github.com/image-size/image-size"
+        },
+        {
+          "source": "https://github.com/qzb/is-animated"
+        },
+        {
+          "source": "https://github.com/developit/unfetch"
+        },
+        {
+          "source": "https://github.com/facebook/jest"
+        },
+        {
+          "source": "https://github.com/jest-community/jest-extended"
+        },
+        {
+          "source": "https://github.com/sindresorhus/ky"
+        },
+        {
+          "source": "https://github.com/sindresorhus/ky-universal"
+        },
+        {
+          "source": "https://github.com/lerna/lerna"
+        },
+        {
+          "source": "https://github.com/okonet/lint-staged"
+        },
+        {
+          "source": "https://github.com/peterramsing/lost"
+        },
+        {
+          "source": "https://github.com/isaacs/minimatch"
+        },
+        {
+          "source": "https://github.com/moment/moment"
+        },
+        {
+          "source": "https://github.com/ai/nanoid"
+        },
+        {
+          "source": "https://github.com/node-fetch/node-fetch"
+        },
+        {
+          "source": "https://github.com/mikaelbr/node-notifier"
+        },
+        {
+          "source": "https://github.com/mysticatea/npm-run-all"
+        },
+        {
+          "source": "https://github.com/rstacruz/nprogress"
+        },
+        {
+          "source": "https://github.com/robwierzbowski/node-pixrem"
+        },
+        {
+          "source": "https://github.com/microsoft/playwright"
+        },
+        {
+          "source": "https://github.com/plopjs/plop"
+        },
+        {
+          "source": "https://github.com/postcss/postcss-nested"
+        },
+        {
+          "source": "https://github.com/axa-ch/postcss-pseudoelements"
+        },
+        {
+          "source": "https://github.com/csstools/postcss-short-size"
+        },
+        {
+          "source": "https://github.com/juanfran/postcss-trolling"
+        },
+        {
+          "source": "https://github.com/prettier/prettier"
+        },
+        {
+          "source": "https://github.com/sindresorhus/pretty-bytes"
+        },
+        {
+          "source": "https://github.com/sindresorhus/pretty-ms"
+        },
+        {
+          "source": "https://github.com/skratchdot/random-seed"
+        },
+        {
+          "source": "https://github.com/FormidableLabs/react-ssr-prepass"
+        },
+        {
+          "source": "https://github.com/bvaughn/react-virtualized"
+        },
+        {
+          "source": "https://github.com/facebook/relay"
+        },
+        {
+          "source": "https://github.com/vercel/release"
+        },
+        {
+          "source": "https://github.com/request/promise-core"
+        },
+        {
+          "source": "https://github.com/sindresorhus/resolve-from"
+        },
+        {
+          "source": "https://github.com/sass/dart-sass"
+        },
+        {
+          "source": "https://github.com/davidbau/seedrandom"
+        },
+        {
+          "source": "https://github.com/SeleniumHQ/selenium"
+        },
+        {
+          "source": "https://github.com/npm/node-semver"
+        },
+        {
+          "source": "https://github.com/substack/node-shell-quote"
+        },
+        {
+          "source": "https://github.com/styled-components/styled-components"
+        },
+        {
+          "source": "https://github.com/giuseppeg/styled-jsx-plugin-postcss"
+        },
+        {
+          "source": "https://github.com/tailwindlabs/tailwindcss"
+        },
+        {
+          "source": "https://github.com/lukeed/taskr"
+        },
+        {
+          "source": "https://github.com/pkrumins/node-tree-kill"
+        },
+        {
+          "source": "https://github.com/google/tsec"
+        },
+        {
+          "source": "https://github.com/vercel/turborepo"
+        },
+        {
+          "source": "https://github.com/microsoft/TypeScript"
+        },
+        {
+          "source": "https://github.com/dwmkerr/wait-port"
+        },
+        {
+          "source": "https://github.com/webpack/webpack"
+        },
+        {
+          "source": "https://github.com/webpack-contrib/webpack-bundle-analyzer"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/FortAwesome/Font-Awesome",
+      "dependencies": []
+    },
+    {
+      "source": "https://github.com/FortAwesome/react-fontawesome",
+      "dependencies": [
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/FortAwesome/Font-Awesome"
+        },
+        {
+          "source": "https://github.com/rollup/plugins"
+        },
+        {
+          "source": "https://github.com/turkdevops/minimal-react-typings"
+        },
+        {
+          "source": "https://github.com/babel/babel-eslint"
+        },
+        {
+          "source": "https://github.com/facebook/jest"
+        },
+        {
+          "source": "https://github.com/browserslist/browserslist"
+        },
+        {
+          "source": "https://github.com/browserslist/caniuse-lite"
+        },
+        {
+          "source": "https://github.com/kentcdodds/cross-env"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/standard/eslint-config-standard"
+        },
+        {
+          "source": "https://github.com/amilajack/eslint-plugin-compat"
+        },
+        {
+          "source": "https://github.com/import-js/eslint-plugin-import"
+        },
+        {
+          "source": "https://github.com/jest-community/eslint-plugin-jest"
+        },
+        {
+          "source": "https://github.com/mysticatea/eslint-plugin-node"
+        },
+        {
+          "source": "https://github.com/xjamundx/eslint-plugin-promise"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/eslint-plugin-react"
+        },
+        {
+          "source": "https://github.com/standard/eslint-plugin-standard"
+        },
+        {
+          "source": "https://github.com/typicode/husky"
+        },
+        {
+          "source": "https://github.com/okonet/lint-staged"
+        },
+        {
+          "source": "https://github.com/jonschlinkert/markdown-toc"
+        },
+        {
+          "source": "https://github.com/prettier/prettier"
+        },
+        {
+          "source": "https://github.com/azz/pretty-quick"
+        },
+        {
+          "source": "https://github.com/facebook/prop-types"
+        },
+        {
+          "source": "https://github.com/facebook/react"
+        },
+        {
+          "source": "https://github.com/rollup/rollup"
+        },
+        {
+          "source": "https://github.com/npm/node-semver"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/twbs/bootstrap",
+      "dependencies": [
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/rollup/plugins"
+        },
+        {
+          "source": "https://github.com/postcss/autoprefixer"
+        },
+        {
+          "source": "https://github.com/bundlewatch/bundlewatch"
+        },
+        {
+          "source": "https://github.com/clean-css/clean-css-cli"
+        },
+        {
+          "source": "https://github.com/kentcdodds/cross-env"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/xojs/eslint-config-xo"
+        },
+        {
+          "source": "https://github.com/import-js/eslint-plugin-import"
+        },
+        {
+          "source": "https://github.com/eslint/eslint-plugin-markdown"
+        },
+        {
+          "source": "https://github.com/sindresorhus/eslint-plugin-unicorn"
+        },
+        {
+          "source": "https://github.com/XhmikosR/find-unused-sass-variables"
+        },
+        {
+          "source": "https://github.com/sindresorhus/globby"
+        },
+        {
+          "source": "https://github.com/hammerjs/simulator"
+        },
+        {
+          "source": "https://github.com/fenneclab/hugo-bin"
+        },
+        {
+          "source": "https://github.com/indutny/node-ip"
+        },
+        {
+          "source": "https://github.com/jquery/jquery"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-browserstack-launcher"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-chrome-launcher"
+        },
+        {
+          "source": "https://github.com/mattlewis92/karma-coverage-istanbul-reporter"
+        },
+        {
+          "source": "https://github.com/litixsoft/karma-detect-browsers"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-firefox-launcher"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-jasmine"
+        },
+        {
+          "source": "https://github.com/dfederm/karma-jasmine-html-reporter"
+        },
+        {
+          "source": "https://github.com/jlmakes/karma-rollup-preprocessor"
+        },
+        {
+          "source": "https://github.com/lirantal/lockfile-lint"
+        },
+        {
+          "source": "https://github.com/remy/nodemon"
+        },
+        {
+          "source": "https://github.com/mysticatea/npm-run-all"
+        },
+        {
+          "source": "https://github.com/postcss/postcss"
+        },
+        {
+          "source": "https://github.com/postcss/postcss-cli"
+        },
+        {
+          "source": "https://github.com/rollup/rollup"
+        },
+        {
+          "source": "https://github.com/artberri/rollup-plugin-istanbul"
+        },
+        {
+          "source": "https://github.com/MohammadYounes/rtlcss"
+        },
+        {
+          "source": "https://github.com/sass/dart-sass"
+        },
+        {
+          "source": "https://github.com/shelljs/shelljs"
+        },
+        {
+          "source": "https://github.com/stylelint/stylelint"
+        },
+        {
+          "source": "https://github.com/twbs/stylelint-config-twbs-bootstrap"
+        },
+        {
+          "source": "https://github.com/terser/terser"
+        },
+        {
+          "source": "https://github.com/validator/validator"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/eslint/eslint",
+      "dependencies": [
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/eslint/eslintrc"
+        },
+        {
+          "source": "https://github.com/humanwhocodes/config-array"
+        },
+        {
+          "source": "https://github.com/humanwhocodes/gitignore-to-minimatch"
+        },
+        {
+          "source": "https://github.com/ajv-validator/ajv"
+        },
+        {
+          "source": "https://github.com/babel/babel-loader"
+        },
+        {
+          "source": "https://github.com/chaijs/chai"
+        },
+        {
+          "source": "https://github.com/chalk/chalk"
+        },
+        {
+          "source": "https://github.com/cheeriojs/cheerio"
+        },
+        {
+          "source": "https://github.com/zspecza/common-tags"
+        },
+        {
+          "source": "https://github.com/zloirock/core-js"
+        },
+        {
+          "source": "https://github.com/moxystudio/node-cross-spawn"
+        },
+        {
+          "source": "https://github.com/debug-js/debug"
+        },
+        {
+          "source": "https://github.com/eslint/doctrine"
+        },
+        {
+          "source": "https://github.com/mde/ejs"
+        },
+        {
+          "source": "https://github.com/sindresorhus/escape-string-regexp"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/mysticatea/eslint-plugin-eslint-comments"
+        },
+        {
+          "source": "https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin"
+        },
+        {
+          "source": "https://github.com/gajus/eslint-plugin-jsdoc"
+        },
+        {
+          "source": "https://github.com/weiran-zsd/eslint-plugin-node"
+        },
+        {
+          "source": "https://github.com/sindresorhus/eslint-plugin-unicorn"
+        },
+        {
+          "source": "https://github.com/eslint/eslint-release"
+        },
+        {
+          "source": "https://github.com/eslint/eslint-scope"
+        },
+        {
+          "source": "https://github.com/mysticatea/eslint-utils"
+        },
+        {
+          "source": "https://github.com/eslint/eslint-visitor-keys"
+        },
+        {
+          "source": "https://github.com/lydell/eslump"
+        },
+        {
+          "source": "https://github.com/eslint/espree"
+        },
+        {
+          "source": "https://github.com/jquery/esprima"
+        },
+        {
+          "source": "https://github.com/estools/esquery"
+        },
+        {
+          "source": "https://github.com/estools/esutils"
+        },
+        {
+          "source": "https://github.com/epoberezkin/fast-deep-equal"
+        },
+        {
+          "source": "https://github.com/mrmlnc/fast-glob"
+        },
+        {
+          "source": "https://github.com/royriojas/file-entry-cache"
+        },
+        {
+          "source": "https://github.com/sindresorhus/find-up"
+        },
+        {
+          "source": "https://github.com/kettanaito/fs-teardown"
+        },
+        {
+          "source": "https://github.com/mikolalysenko/functional-red-black-tree"
+        },
+        {
+          "source": "https://github.com/isaacs/node-glob"
+        },
+        {
+          "source": "https://github.com/gulpjs/glob-parent"
+        },
+        {
+          "source": "https://github.com/sindresorhus/globals"
+        },
+        {
+          "source": "https://github.com/sindresorhus/globby"
+        },
+        {
+          "source": "https://github.com/sindresorhus/got"
+        },
+        {
+          "source": "https://github.com/orling/grapheme-splitter"
+        },
+        {
+          "source": "https://github.com/jonschlinkert/gray-matter"
+        },
+        {
+          "source": "https://github.com/kaelzhang/node-ignore"
+        },
+        {
+          "source": "https://github.com/sindresorhus/import-fresh"
+        },
+        {
+          "source": "https://github.com/jensyt/imurmurhash-js"
+        },
+        {
+          "source": "https://github.com/micromatch/is-glob"
+        },
+        {
+          "source": "https://github.com/nodeca/js-yaml"
+        },
+        {
+          "source": "https://github.com/jsdoc/jsdoc"
+        },
+        {
+          "source": "https://github.com/samn/json-stable-stringify"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-chrome-launcher"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-mocha"
+        },
+        {
+          "source": "https://github.com/litixsoft/karma-mocha-reporter"
+        },
+        {
+          "source": "https://github.com/ryanclark/karma-webpack"
+        },
+        {
+          "source": "https://github.com/gkz/levn"
+        },
+        {
+          "source": "https://github.com/okonet/lint-staged"
+        },
+        {
+          "source": "https://github.com/gyandeeps/load-perf"
+        },
+        {
+          "source": "https://github.com/lodash/lodash"
+        },
+        {
+          "source": "https://github.com/DavidAnson/markdownlint"
+        },
+        {
+          "source": "https://github.com/igorshubovych/markdownlint-cli"
+        },
+        {
+          "source": "https://github.com/markedjs/marked"
+        },
+        {
+          "source": "https://github.com/streamich/memfs"
+        },
+        {
+          "source": "https://github.com/microlinkhq/metascraper"
+        },
+        {
+          "source": "https://github.com/isaacs/minimatch"
+        },
+        {
+          "source": "https://github.com/mochajs/mocha"
+        },
+        {
+          "source": "https://github.com/michaelleeallen/mocha-junit-reporter"
+        },
+        {
+          "source": "https://github.com/discoveryjs/natural-compare"
+        },
+        {
+          "source": "https://github.com/Richienb/node-polyfill-webpack-plugin"
+        },
+        {
+          "source": "https://github.com/AceMetrix/npm-license"
+        },
+        {
+          "source": "https://github.com/istanbuljs/nyc"
+        },
+        {
+          "source": "https://github.com/gkz/optionator"
+        },
+        {
+          "source": "https://github.com/danez/pirates"
+        },
+        {
+          "source": "https://github.com/visionmedia/node-progress"
+        },
+        {
+          "source": "https://github.com/thlorenz/proxyquire"
+        },
+        {
+          "source": "https://github.com/puppeteer/puppeteer"
+        },
+        {
+          "source": "https://github.com/benjamn/recast"
+        },
+        {
+          "source": "https://github.com/facebook/regenerator"
+        },
+        {
+          "source": "https://github.com/mysticatea/regexpp"
+        },
+        {
+          "source": "https://github.com/npm/node-semver"
+        },
+        {
+          "source": "https://github.com/shelljs/shelljs"
+        },
+        {
+          "source": "https://github.com/sinonjs/sinon"
+        },
+        {
+          "source": "https://github.com/chalk/strip-ansi"
+        },
+        {
+          "source": "https://github.com/sindresorhus/strip-json-comments"
+        },
+        {
+          "source": "https://github.com/bruce/node-temp"
+        },
+        {
+          "source": "https://github.com/substack/text-table"
+        },
+        {
+          "source": "https://github.com/zertosh/v8-compile-cache"
+        },
+        {
+          "source": "https://github.com/webpack/webpack"
+        },
+        {
+          "source": "https://github.com/webpack/webpack-cli"
+        },
+        {
+          "source": "https://github.com/yyx990803/yorkie"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/jsx-eslint/eslint-plugin-react",
+      "dependencies": [
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/technote-space/doctoc"
+        },
+        {
+          "source": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+        },
+        {
+          "source": "https://github.com/typescript-eslint/typescript-eslint"
+        },
+        {
+          "source": "https://github.com/es-shims/array-includes"
+        },
+        {
+          "source": "https://github.com/es-shims/Array.prototype.flatMap"
+        },
+        {
+          "source": "https://github.com/ljharb/aud"
+        },
+        {
+          "source": "https://github.com/babel/babel-eslint"
+        },
+        {
+          "source": "https://github.com/eslint/doctrine"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/airbnb/javascript"
+        },
+        {
+          "source": "https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin"
+        },
+        {
+          "source": "https://github.com/import-js/eslint-plugin-import"
+        },
+        {
+          "source": "https://github.com/AriPerkkio/eslint-remote-tester"
+        },
+        {
+          "source": "https://github.com/eslint/eslint-scope"
+        },
+        {
+          "source": "https://github.com/eslint/espree"
+        },
+        {
+          "source": "https://github.com/estools/estraverse"
+        },
+        {
+          "source": "https://github.com/gotwarlost/istanbul"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/jsx-ast-utils"
+        },
+        {
+          "source": "https://github.com/ljharb/ls-engines"
+        },
+        {
+          "source": "https://github.com/DavidWells/markdown-magic"
+        },
+        {
+          "source": "https://github.com/igorshubovych/markdownlint-cli"
+        },
+        {
+          "source": "https://github.com/isaacs/minimatch"
+        },
+        {
+          "source": "https://github.com/mochajs/mocha"
+        },
+        {
+          "source": "https://github.com/ljharb/npmignore"
+        },
+        {
+          "source": "https://github.com/es-shims/Object.entries"
+        },
+        {
+          "source": "https://github.com/es-shims/Object.fromEntries"
+        },
+        {
+          "source": "https://github.com/es-shims/Object.hasOwn"
+        },
+        {
+          "source": "https://github.com/es-shims/Object.values"
+        },
+        {
+          "source": "https://github.com/facebook/prop-types"
+        },
+        {
+          "source": "https://github.com/browserify/resolve"
+        },
+        {
+          "source": "https://github.com/npm/node-semver"
+        },
+        {
+          "source": "https://github.com/sinonjs/sinon"
+        },
+        {
+          "source": "https://github.com/es-shims/String.prototype.matchAll"
+        },
+        {
+          "source": "https://github.com/microsoft/TypeScript"
+        },
+        {
+          "source": "https://github.com/eslint/typescript-eslint-parser"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/prettier/prettier",
+      "dependencies": [
+        {
+          "source": "https://github.com/node-fetch/node-fetch"
+        },
+        {
+          "source": "https://github.com/angular/angular"
+        },
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/remorses/esbuild-plugins"
+        },
+        {
+          "source": "https://github.com/glimmerjs/glimmer-vm"
+        },
+        {
+          "source": "https://github.com/iarna/iarna-toml"
+        },
+        {
+          "source": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+        },
+        {
+          "source": "https://github.com/typescript-eslint/typescript-eslint"
+        },
+        {
+          "source": "https://github.com/acornjs/acorn"
+        },
+        {
+          "source": "https://github.com/acornjs/acorn-jsx"
+        },
+        {
+          "source": "https://github.com/ikatyang/angular-estree-parser"
+        },
+        {
+          "source": "https://github.com/ikatyang/angular-html-parser"
+        },
+        {
+          "source": "https://github.com/facebook/jest"
+        },
+        {
+          "source": "https://github.com/bestiejs/benchmark.js"
+        },
+        {
+          "source": "https://github.com/marcofugaro/browserslist-to-esbuild"
+        },
+        {
+          "source": "https://github.com/sindresorhus/camelcase"
+        },
+        {
+          "source": "https://github.com/chalk/chalk"
+        },
+        {
+          "source": "https://github.com/watson/ci-info"
+        },
+        {
+          "source": "https://github.com/ikatyang/cjk-regex"
+        },
+        {
+          "source": "https://github.com/zloirock/core-js"
+        },
+        {
+          "source": "https://github.com/davidtheclark/cosmiconfig"
+        },
+        {
+          "source": "https://github.com/kentcdodds/cross-env"
+        },
+        {
+          "source": "https://github.com/streetsidesoftware/cspell"
+        },
+        {
+          "source": "https://github.com/fisker/css-units-list"
+        },
+        {
+          "source": "https://github.com/jonschlinkert/dashify"
+        },
+        {
+          "source": "https://github.com/kpdecker/jsdiff"
+        },
+        {
+          "source": "https://github.com/editorconfig/editorconfig-core-js"
+        },
+        {
+          "source": "https://github.com/josephfrazier/editorconfig-to-prettier"
+        },
+        {
+          "source": "https://github.com/enquirer/enquirer"
+        },
+        {
+          "source": "https://github.com/evanw/esbuild"
+        },
+        {
+          "source": "https://github.com/btd/esbuild-visualizer"
+        },
+        {
+          "source": "https://github.com/sindresorhus/escape-string-regexp"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/prettier/eslint-config-prettier"
+        },
+        {
+          "source": "https://github.com/royriojas/eslint-friendly-formatter"
+        },
+        {
+          "source": "https://github.com/amilajack/eslint-plugin-compat"
+        },
+        {
+          "source": "https://github.com/import-js/eslint-plugin-import"
+        },
+        {
+          "source": "https://github.com/jest-community/eslint-plugin-jest"
+        },
+        {
+          "source": "https://github.com/prettier/eslint-plugin-prettier-internal-rules"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/eslint-plugin-react"
+        },
+        {
+          "source": "https://github.com/ota-meshi/eslint-plugin-regexp"
+        },
+        {
+          "source": "https://github.com/sindresorhus/eslint-plugin-unicorn"
+        },
+        {
+          "source": "https://github.com/fisker/esm-utils"
+        },
+        {
+          "source": "https://github.com/eslint/espree"
+        },
+        {
+          "source": "https://github.com/estools/esutils"
+        },
+        {
+          "source": "https://github.com/sindresorhus/execa"
+        },
+        {
+          "source": "https://github.com/mrmlnc/fast-glob"
+        },
+        {
+          "source": "https://github.com/epoberezkin/fast-json-stable-stringify"
+        },
+        {
+          "source": "https://github.com/royriojas/file-entry-cache"
+        },
+        {
+          "source": "https://github.com/avajs/find-cache-dir"
+        },
+        {
+          "source": "https://github.com/thlorenz/find-parent-dir"
+        },
+        {
+          "source": "https://github.com/facebook/flow"
+        },
+        {
+          "source": "https://github.com/sindresorhus/get-stdin"
+        },
+        {
+          "source": "https://github.com/graphql/graphql-js"
+        },
+        {
+          "source": "https://github.com/wooorm/html-element-attributes"
+        },
+        {
+          "source": "https://github.com/Riverside-Healthcare/html-styles"
+        },
+        {
+          "source": "https://github.com/wooorm/html-tag-names"
+        },
+        {
+          "source": "https://github.com/wooorm/html-void-elements"
+        },
+        {
+          "source": "https://github.com/kaelzhang/node-ignore"
+        },
+        {
+          "source": "https://github.com/ikatyang/jest-snapshot-serializer-ansi"
+        },
+        {
+          "source": "https://github.com/ikatyang/jest-snapshot-serializer-raw"
+        },
+        {
+          "source": "https://github.com/jest-community/jest-watch-typeahead"
+        },
+        {
+          "source": "https://github.com/json5/json5"
+        },
+        {
+          "source": "https://github.com/sindresorhus/leven"
+        },
+        {
+          "source": "https://github.com/eventualbuddha/lines-and-columns"
+        },
+        {
+          "source": "https://github.com/ikatyang/linguist-languages"
+        },
+        {
+          "source": "https://github.com/sindresorhus/mem"
+        },
+        {
+          "source": "https://github.com/meriyah/meriyah"
+        },
+        {
+          "source": "https://github.com/micromatch/micromatch"
+        },
+        {
+          "source": "https://github.com/substack/minimist"
+        },
+        {
+          "source": "https://github.com/nacholibre/node-readlines"
+        },
+        {
+          "source": "https://github.com/sosukesuzuki/node-actionlint"
+        },
+        {
+          "source": "https://github.com/mysticatea/npm-run-all"
+        },
+        {
+          "source": "https://github.com/cspotcode/outdent"
+        },
+        {
+          "source": "https://github.com/browserify/path-browserify"
+        },
+        {
+          "source": "https://github.com/typicode/please-upgrade-node"
+        },
+        {
+          "source": "https://github.com/shellscape/postcss-less"
+        },
+        {
+          "source": "https://github.com/dryoma/postcss-media-query-parser"
+        },
+        {
+          "source": "https://github.com/postcss/postcss-scss"
+        },
+        {
+          "source": "https://github.com/postcss/postcss-selector-parser"
+        },
+        {
+          "source": "https://github.com/shellscape/postcss-values-parser"
+        },
+        {
+          "source": "https://github.com/prettier/prettier"
+        },
+        {
+          "source": "https://github.com/sindresorhus/pretty-bytes"
+        },
+        {
+          "source": "https://github.com/ikatyang/regexp-util"
+        },
+        {
+          "source": "https://github.com/remarkjs/remark-footnotes"
+        },
+        {
+          "source": "https://github.com/remarkjs/remark-math"
+        },
+        {
+          "source": "https://github.com/remarkjs/remark"
+        },
+        {
+          "source": "https://github.com/browserify/resolve"
+        },
+        {
+          "source": "https://github.com/isaacs/rimraf"
+        },
+        {
+          "source": "https://github.com/mjeanroy/rollup-plugin-license"
+        },
+        {
+          "source": "https://github.com/sindresorhus/sdbm"
+        },
+        {
+          "source": "https://github.com/npm/node-semver"
+        },
+        {
+          "source": "https://github.com/jest-community/snapshot-diff"
+        },
+        {
+          "source": "https://github.com/sindresorhus/string-width"
+        },
+        {
+          "source": "https://github.com/chalk/strip-ansi"
+        },
+        {
+          "source": "https://github.com/sindresorhus/tempy"
+        },
+        {
+          "source": "https://github.com/microsoft/TypeScript"
+        },
+        {
+          "source": "https://github.com/ikatyang/unicode-regex"
+        },
+        {
+          "source": "https://github.com/unifiedjs/unified"
+        },
+        {
+          "source": "https://github.com/ikatyang/vnopts"
+        },
+        {
+          "source": "https://github.com/timoxley/wcwidth"
+        },
+        {
+          "source": "https://github.com/ikatyang/yaml-unist-parser"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/facebook/prop-types",
+      "dependencies": [
+        {
+          "source": "https://github.com/facebook/jest"
+        },
+        {
+          "source": "https://github.com/cruzlauroiii/babel-preset-react"
+        },
+        {
+          "source": "https://github.com/browserify/browserify"
+        },
+        {
+          "source": "https://github.com/browserify/bundle-collapser"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/iarna/in-publish"
+        },
+        {
+          "source": "https://github.com/zertosh/loose-envify"
+        },
+        {
+          "source": "https://github.com/sindresorhus/object-assign"
+        },
+        {
+          "source": "https://github.com/facebook/react"
+        },
+        {
+          "source": "https://github.com/hughsk/uglifyify"
+        },
+        {
+          "source": "https://github.com/LuckyLiuyz/uglifyjs"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/facebook/react",
+      "dependencies": [
+        {
+          "source": "https://github.com/substack/minimist"
+        },
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/mysticatea/abort-controller"
+        },
+        {
+          "source": "https://github.com/sebmarkbage/art"
+        },
+        {
+          "source": "https://github.com/babel/babel-eslint"
+        },
+        {
+          "source": "https://github.com/chalk/chalk"
+        },
+        {
+          "source": "https://github.com/Automattic/cli-table"
+        },
+        {
+          "source": "https://github.com/evite/unbrew"
+        },
+        {
+          "source": "https://github.com/facebook/create-react-app"
+        },
+        {
+          "source": "https://github.com/zloirock/core-js"
+        },
+        {
+          "source": "https://github.com/nickmerwin/node-coveralls"
+        },
+        {
+          "source": "https://github.com/sarahbethfederman/create-react-class"
+        },
+        {
+          "source": "https://github.com/danger/danger-js"
+        },
+        {
+          "source": "https://github.com/stacktracejs/error-stack-parser"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/facebook/fbjs"
+        },
+        {
+          "source": "https://github.com/prettier/eslint-config-prettier"
+        },
+        {
+          "source": "https://github.com/babel/eslint-plugin-babel"
+        },
+        {
+          "source": "https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin"
+        },
+        {
+          "source": "https://github.com/gajus/eslint-plugin-flowtype"
+        },
+        {
+          "source": "https://github.com/jest-community/eslint-plugin-jest"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y"
+        },
+        {
+          "source": "https://github.com/dharFr/eslint-plugin-no-for-of-loops"
+        },
+        {
+          "source": "https://github.com/bhumijgupta/eslint-plugin-no-function-declare-after-return"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/eslint-plugin-react"
+        },
+        {
+          "source": "https://github.com/avoidwork/filesize.js"
+        },
+        {
+          "source": "https://github.com/flow/flow-bin"
+        },
+        {
+          "source": "https://github.com/isaacs/node-glob"
+        },
+        {
+          "source": "https://github.com/gulpjs/glob-stream"
+        },
+        {
+          "source": "https://github.com/google/closure-compiler-npm"
+        },
+        {
+          "source": "https://github.com/sindresorhus/gzip-size"
+        },
+        {
+          "source": "https://github.com/leebyron/testcheck-js"
+        },
+        {
+          "source": "https://github.com/facebook/jest"
+        },
+        {
+          "source": "https://github.com/ikatyang/jest-snapshot-serializer-raw"
+        },
+        {
+          "source": "https://github.com/isaacs/minimatch"
+        },
+        {
+          "source": "https://github.com/substack/node-mkdirp"
+        },
+        {
+          "source": "https://github.com/AvianFlu/ncp"
+        },
+        {
+          "source": "https://github.com/npm/pacote"
+        },
+        {
+          "source": "https://github.com/prettier/prettier"
+        },
+        {
+          "source": "https://github.com/facebook/prop-types"
+        },
+        {
+          "source": "https://github.com/skratchdot/random-seed"
+        },
+        {
+          "source": "https://github.com/reactjs/react-lifecycles-compat"
+        },
+        {
+          "source": "https://github.com/isaacs/rimraf"
+        },
+        {
+          "source": "https://github.com/rollup/rollup"
+        },
+        {
+          "source": "https://github.com/rollup/rollup-plugin-babel"
+        },
+        {
+          "source": "https://github.com/rollup/rollup-plugin-commonjs"
+        },
+        {
+          "source": "https://github.com/rollup/rollup-plugin-node-resolve"
+        },
+        {
+          "source": "https://github.com/mjeanroy/rollup-plugin-prettier"
+        },
+        {
+          "source": "https://github.com/rollup/rollup-plugin-replace"
+        },
+        {
+          "source": "https://github.com/mjeanroy/rollup-plugin-strip-banner"
+        },
+        {
+          "source": "https://github.com/npm/node-semver"
+        },
+        {
+          "source": "https://github.com/miskun/targz"
+        },
+        {
+          "source": "https://github.com/rvagg/through2"
+        },
+        {
+          "source": "https://github.com/raszi/node-tmp"
+        },
+        {
+          "source": "https://github.com/microsoft/TypeScript"
+        },
+        {
+          "source": "https://github.com/MattiasBuelens/web-streams-polyfill"
+        },
+        {
+          "source": "https://github.com/webpack/webpack"
+        },
+        {
+          "source": "https://github.com/yargs/yargs"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/react-bootstrap/react-bootstrap",
+      "dependencies": [
+        {
+          "source": "https://github.com/4Catalyzer/cli"
+        },
+        {
+          "source": "https://github.com/4Catalyzer/javascript"
+        },
+        {
+          "source": "https://github.com/babel/babel"
+        },
+        {
+          "source": "https://github.com/react-restart/hooks"
+        },
+        {
+          "source": "https://github.com/react-restart/ui"
+        },
+        {
+          "source": "https://github.com/testing-library/dom-testing-library"
+        },
+        {
+          "source": "https://github.com/testing-library/react-testing-library"
+        },
+        {
+          "source": "https://github.com/testing-library/user-event"
+        },
+        {
+          "source": "https://github.com/Seally/types-chai"
+        },
+        {
+          "source": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+        },
+        {
+          "source": "https://github.com/types/mocha"
+        },
+        {
+          "source": "https://github.com/typescript-eslint/typescript-eslint"
+        },
+        {
+          "source": "https://github.com/babel/babel-eslint"
+        },
+        {
+          "source": "https://github.com/babel/babel-loader"
+        },
+        {
+          "source": "https://github.com/istanbuljs/babel-plugin-istanbul"
+        },
+        {
+          "source": "https://github.com/chaijs/chai"
+        },
+        {
+          "source": "https://github.com/chalk/chalk"
+        },
+        {
+          "source": "https://github.com/Andarist/cherry-pick"
+        },
+        {
+          "source": "https://github.com/JedWatson/classnames"
+        },
+        {
+          "source": "https://github.com/codecov/codecov-node"
+        },
+        {
+          "source": "https://github.com/conventional-changelog/conventional-changelog"
+        },
+        {
+          "source": "https://github.com/sindresorhus/cpy-cli"
+        },
+        {
+          "source": "https://github.com/kentcdodds/cross-env"
+        },
+        {
+          "source": "https://github.com/react-bootstrap/dom-helpers"
+        },
+        {
+          "source": "https://github.com/microsoft/dtslint"
+        },
+        {
+          "source": "https://github.com/enzymejs/enzyme"
+        },
+        {
+          "source": "https://github.com/eslint/eslint"
+        },
+        {
+          "source": "https://github.com/import-js/eslint-plugin-import"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y"
+        },
+        {
+          "source": "https://github.com/lo1tuma/eslint-plugin-mocha"
+        },
+        {
+          "source": "https://github.com/prettier/eslint-plugin-prettier"
+        },
+        {
+          "source": "https://github.com/jsx-eslint/eslint-plugin-react"
+        },
+        {
+          "source": "https://github.com/sindresorhus/execa"
+        },
+        {
+          "source": "https://github.com/jprichardson/node-fs-extra"
+        },
+        {
+          "source": "https://github.com/typicode/husky"
+        },
+        {
+          "source": "https://github.com/zertosh/invariant"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-chrome-launcher"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-cli"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-coverage"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-firefox-launcher"
+        },
+        {
+          "source": "https://github.com/karma-runner/karma-mocha"
+        },
+        {
+          "source": "https://github.com/litixsoft/karma-mocha-reporter"
+        },
+        {
+          "source": "https://github.com/kmees/karma-sinon-chai"
+        },
+        {
+          "source": "https://github.com/demerzel3/karma-sourcemap-loader"
+        },
+        {
+          "source": "https://github.com/ryanclark/karma-webpack"
+        },
+        {
+          "source": "https://github.com/okonet/lint-staged"
+        },
+        {
+          "source": "https://github.com/lodash/lodash"
+        },
+        {
+          "source": "https://github.com/mochajs/mocha"
+        },
+        {
+          "source": "https://github.com/prettier/prettier"
+        },
+        {
+          "source": "https://github.com/defunctzombie/node-process"
+        },
+        {
+          "source": "https://github.com/facebook/prop-types"
+        },
+        {
+          "source": "https://github.com/react-bootstrap/prop-types-extra"
+        },
+        {
+          "source": "https://github.com/facebook/react"
+        },
+        {
+          "source": "https://github.com/reactjs/react-transition-group"
+        },
+        {
+          "source": "https://github.com/Rich-Harris/simulant"
+        },
+        {
+          "source": "https://github.com/sinonjs/sinon"
+        },
+        {
+          "source": "https://github.com/domenic/sinon-chai"
+        },
+        {
+          "source": "https://github.com/browserify/stream-browserify"
+        },
+        {
+          "source": "https://github.com/microsoft/TypeScript"
+        },
+        {
+          "source": "https://github.com/jquense/uncontrollable"
+        },
+        {
+          "source": "https://github.com/browserify/node-util"
+        },
+        {
+          "source": "https://github.com/BerkeleyTrue/warning"
+        },
+        {
+          "source": "https://github.com/webpack/webpack"
+        }
+      ]
+    }
+  ]
+}
